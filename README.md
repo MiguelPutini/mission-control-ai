@@ -2,12 +2,12 @@
 
 Este é um projeto desenvolvido para a Global Solution (GS) da FIAP. O Mission Control AI é um sistema em Python que simula o monitoramento inteligente de uma missão espacial experimental, sendo capaz de identificar riscos, emitir alertas e sugerir ações para apoiar a tomada de decisão.
 
-## Equipe Apollo
-- **Missão:** Orion Test Alpha
+## Equipe Rocketboys
+- **Missão:** Orion-experiment-28-05-26
 - Integrantes:
-  - [Nome do Integrante 1] - RM: [000000]
-  - [Nome do Integrante 2] - RM: [000000]
-  - [Nome do Integrante 3] - RM: [000000]
+   - [Miguel Putini] - RM: [571624]
+  - [Alexandre Rizzi] - RM: [569621]
+
 
 ## Estrutura do Projeto
 O repositório contém os seguintes arquivos:
