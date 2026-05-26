@@ -53,4 +53,4 @@ Os ciclos são classificados pela soma total de risco:
 1. Certifique-se de ter o Python instalado na sua máquina (versão 3.x recomendada).
 2. Clone o repositório ou baixe os arquivos.
 3. Acesse a pasta do projeto via terminal.
-4. Execute o comando: `python mission_control.py`
+4. Execute o comando: `python mission_control.py` ou apenas coloque para rodar
